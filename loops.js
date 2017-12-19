@@ -252,3 +252,10 @@ for (let i = 50; i >= 0; i--){
 		console.log("User age is " + i);
 	}
 };
+
+
+
+// make a new folder in your gravyTrain called git-practice-1
+// inside that directory, make a few files
+// make it a git repository
+// push those files up to github, so you'll have to create a new repo on github
